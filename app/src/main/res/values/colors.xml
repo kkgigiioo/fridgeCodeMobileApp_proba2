@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorRow">#00adb5</color>
+    <color name="colorPrimaryDark">#000b18</color>
+    <color name="colorAccent">#0052a2</color>
+    <color name="appMain">#222831</color>
+    <color name="wordLight">#eeeeee</color>
+    <color name="detailItem">#007a80</color>
+    <color name="deleteDetailSolid">#ee2737</color>
+    <color name="deleteDetailStroke">#ff4767</color>
+
+</resources>
