@@ -52,12 +52,12 @@ public class DetailActivity extends AppCompatActivity {
         prodUnitTV = findViewById(R.id.unitTV);
 
         nameTV.setText(prodName);
-        barcodeTV.setText("Barcode:                 " + prodBarcode);
-        expirTV.setText("Expiration day:            " + prodExpir);
-        prodLocTV.setText("Location:                " + prodLoc);
-        prodBrandTV.setText("Brand:                 " + prodBrand);
-        prodNumOfItemTV.setText("Number of item:    " + prodNumOfItem);
-        prodUnitTV.setText("Unit:                   " + prodUnit);
+        barcodeTV.setText(prodBarcode);
+        expirTV.setText(prodExpir);
+        prodLocTV.setText(prodLoc);
+        prodBrandTV.setText(prodBrand);
+        prodNumOfItemTV.setText(prodNumOfItem);
+        prodUnitTV.setText(prodUnit);
 
 
         //database reference

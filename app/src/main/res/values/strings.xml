@@ -7,6 +7,12 @@
     <string name="click_to_magic">Click to magic</string>
     <string name="createItemTV">...</string>
     <string name="detail_delete_item">Delete Item</string>
+    <string name="detail_barcode">Barcode:</string>
+    <string name="detail_expiration_day">Expiration day:</string>
+    <string name="detail_brand">Brand:</string>
+    <string name="detail_location">Location:</string>
+    <string name="detail_number_of_item">Number of item:</string>
+    <string name="detail_unit">Unit:</string>
 
     <string-array name="Location">
         <item>Room</item>
